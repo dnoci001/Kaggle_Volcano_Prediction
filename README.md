@@ -6,4 +6,6 @@ Italy's Istituto Nazionale di Geofisica e Vulcanologia (INGV) has presented the 
 
 "What if scientists could anticipate volcanic eruptions as they predict the weather? While determining rain or shine days in advance is more difficult, weather reports become more accurate on shorter time scales. A similar approach with volcanoes could make a big impact. Just one unforeseen eruption can result in tens of thousands of lives lost. If scientists could reliably predict when a volcano will next erupt, evacuations could be more timely and the damage mitigated."
 
+Perform of FFT on signal and PCA to reduce the signal dimension.
+
 I'll explore several commonly used bossting models CatBoost and LightGBM and stacked regressor models from scikit-learn to predict time of eruption
